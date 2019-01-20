@@ -1,5 +1,6 @@
 module.exports = {
-  baseUrl: '/',
+  baseUrl: '/OfficeChef/',
+  outputDir: 'dist',
   runtimeCompiler: false,
   productionSourceMap: false,
   parallel: true,

@@ -7,12 +7,11 @@ set -e
 yarn build
 
 # navigate into the build output directory
-cd ./dist
+cd ./docs
 
 # commit
 git init
 git remote add origin https://github.com/mroswell/OfficeChef.git
-
 git add -A
 git commit -m '🚀 Deploy'
 

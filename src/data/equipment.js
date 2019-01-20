@@ -288,7 +288,7 @@ export default [
     categories: [4]
   },
   {
-    name: 'Forks, Knives Spoons',
+    name: 'Forks, Knives, Spoons',
     priceRange: '$',
     link: undefined,
     notes: undefined,
